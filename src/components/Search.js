@@ -10,7 +10,7 @@ const Search = (props) => {
         type="search"
         value={value}
         onChange={onChange}
-        sx={{mb: "1.5rem"}}
+        sx={{mt: "3.5rem", mb:"1.5rem"}}
         />;
 };
 

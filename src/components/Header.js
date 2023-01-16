@@ -3,7 +3,7 @@ import { AppBar, Badge, IconButton, Toolbar, Typography } from "@mui/material"
 
 export const Header = ({handleCard, orderLength}) => {
     return (
-        <AppBar position="static">
+        <AppBar>
             <Toolbar>
                 <Typography
                     variant="h6"
