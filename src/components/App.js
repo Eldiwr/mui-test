@@ -76,7 +76,7 @@ const App = () => {
                 orderLength = {order.length}
             />
             <Container
-                sx={{mt: "1rem"}}
+                sx={{ pt: "1rem", pb: "1rem"}}
             >
                 <Search
                     value={search}

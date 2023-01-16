@@ -9,7 +9,7 @@ export const Basket = (props) => {
             open={cardOpen}
             onClose={closeCard}
         >
-            <List sx={{width: "350px"}}>
+            <List sx={{width: "300px"}}>
                 <ListItem>
                     <ListItemIcon>
                         <ShoppingBasket/>
